@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/dell/AndroidStudioProjects/DamasUzDemo/app/src/main/res/drawable/fon_1.xml" value="0.2703125" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/DamasUzDemo/app/src/main/res/drawable/ic_minus.xml" value="0.2703125" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/DamasUzDemo/app/src/main/res/drawable/ic_plus.xml" value="0.2703125" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/DamasUzDemo/app/src/main/res/drawable/ic_swipe_user_1.xml" value="0.2703125" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/DamasUzDemo/app/src/main/res/layout/activity_main.xml" value="0.2536231884057971" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/DamasUzDemo/app/src/main/res/layout/activity_sign.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/DamasUzDemo/app/src/main/res/layout/fragment_liniya_list_shopir.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/DamasUzDemo/app/src/main/res/layout/fragment_liniya_list_yolovchi.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/DamasUzDemo/app/src/main/res/layout/fragment_map_yolovchi.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/DamasUzDemo/app/src/main/res/layout/fragment_maps.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/DamasUzDemo/app/src/main/res/layout/fragment_register_shopir.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/DamasUzDemo/app/src/main/res/layout/fragment_register_yolocvhi.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/DamasUzDemo/app/src/main/res/layout/fragment_sign.xml" value="0.2536231884057971" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/DamasUzDemo/app/src/main/res/layout/item_dialog_marker.xml" value="0.24094202898550723" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/DamasUzDemo/app/src/main/res/layout/item_liniya.xml" value="0.24094202898550723" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
