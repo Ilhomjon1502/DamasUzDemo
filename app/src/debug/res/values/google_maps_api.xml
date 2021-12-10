@@ -6,12 +6,12 @@
 
     https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=66:67:1B:C4:1F:EA:B7:18:01:7D:79:96:1B:E0:48:9F:7E:D3:A4:F0%3Buz.ilhomjon.damasuzdemo
 
-    link: https://console.cloud.google.com/apis/enableflow?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=66:67:1B:C4:1F:EA:B7:18:01:7D:79:96:1B:E0:48:9F:7E:D3:A4:F0;uz.ilhomjon.damasuzdemo&authuser=2&project=damasuzdemo
+    link:https://console.cloud.google.com/apis/enableflow?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=66:67:1B:C4:1F:EA:B7:18:01:7D:79:96:1B:E0:48:9F:7E:D3:A4:F0;uz.ilhomjon2.damasuzdemo&authuser=2&project=damasuzdemo
 
     You can also add your credentials to an existing key, using these values:
 
     Package name:
-    uz.ilhomjon.damasuzdemo
+    uz.ilhomjon2.damasuzdemo
 
     SHA-1 certificate fingerprint:
     66:67:1B:C4:1F:EA:B7:18:01:7D:79:96:1B:E0:48:9F:7E:D3:A4:F0
@@ -22,5 +22,5 @@
     Once you have your key (it starts with "AIza"), replace the "google_maps_key"
     string in this file.
     -->
-    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDHSUsGJUBfoJXTHvs3JKHeE-X-_v-MpTA</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyA6KEN0ghDznwYQ-GhlA8BGgeQwMhYBoco</string>
 </resources>

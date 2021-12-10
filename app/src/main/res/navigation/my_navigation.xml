@@ -7,37 +7,37 @@
 
     <fragment
         android:id="@+id/signFragment"
-        android:name="uz.ilhomjon.damasuzdemo.SignFragment"
+        android:name="uz.ilhomjon2.damasuzdemo.SignFragment"
         android:label="fragment_sign"
         tools:layout="@layout/fragment_sign" />
     <fragment
         android:id="@+id/mapsFragment"
-        android:name="uz.ilhomjon.damasuzdemo.MapsFragment"
+        android:name="uz.ilhomjon2.damasuzdemo.MapsFragment"
         android:label="fragment_maps"
         tools:layout="@layout/fragment_maps" />
     <fragment
         android:id="@+id/registerYolocvhiFragment"
-        android:name="uz.ilhomjon.damasuzdemo.RegisterYolocvhiFragment"
+        android:name="uz.ilhomjon2.damasuzdemo.RegisterYolocvhiFragment"
         android:label="fragment_register_yolocvhi"
         tools:layout="@layout/fragment_register_yolocvhi" />
     <fragment
         android:id="@+id/registerShopirFragment"
-        android:name="uz.ilhomjon.damasuzdemo.RegisterShopirFragment"
+        android:name="uz.ilhomjon2.damasuzdemo.RegisterShopirFragment"
         android:label="fragment_register_shopir"
         tools:layout="@layout/fragment_register_shopir" />
     <fragment
         android:id="@+id/liniyaListShopirFragment"
-        android:name="uz.ilhomjon.damasuzdemo.LiniyaListShopirFragment"
+        android:name="uz.ilhomjon2.damasuzdemo.LiniyaListShopirFragment"
         android:label="fragment_liniya_list_shopir"
         tools:layout="@layout/fragment_liniya_list_shopir" />
     <fragment
         android:id="@+id/liniyaListYolovchiFragment"
-        android:name="uz.ilhomjon.damasuzdemo.LiniyaListYolovchiFragment"
+        android:name="uz.ilhomjon2.damasuzdemo.LiniyaListYolovchiFragment"
         android:label="fragment_liniya_list_yolovchi"
         tools:layout="@layout/fragment_liniya_list_yolovchi" />
     <fragment
         android:id="@+id/mapYolovchiFragment"
-        android:name="uz.ilhomjon.damasuzdemo.mapYolovchiFragment"
+        android:name="uz.ilhomjon2.damasuzdemo.mapYolovchiFragment"
         android:label="fragment_map_yolovchi"
         tools:layout="@layout/fragment_map_yolovchi" />
 </navigation>

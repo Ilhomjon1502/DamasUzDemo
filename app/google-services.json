@@ -55,6 +55,46 @@
       },
       "oauth_client": [
         {
+          "client_id": "407890683107-vrhfqkccrnfglkac1uoajf5kl7c8f5ba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uz.ilhomjon.damasuzdemo",
+            "certificate_hash": "66671bc41feab718017d79961be0489f7ed3a4f0"
+          }
+        },
+        {
+          "client_id": "407890683107-liv1hefsun9h32kilcasvldfqll5647n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRjxSvaO8_iqu8-UFoCvvTpQBAntMmQF0"
+        },
+        {
+          "current_key": "AIzaSyDHSUsGJUBfoJXTHvs3JKHeE-X-_v-MpTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407890683107-liv1hefsun9h32kilcasvldfqll5647n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407890683107:android:b9d96f38e95f1a845e91d6",
+        "android_client_info": {
+          "package_name": "uz.ilhomjon2.damasuzdemo"
+        }
+      },
+      "oauth_client": [
+        {
           "client_id": "407890683107-liv1hefsun9h32kilcasvldfqll5647n.apps.googleusercontent.com",
           "client_type": 3
         }
